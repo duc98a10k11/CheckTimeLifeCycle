@@ -1,4 +1,4 @@
-# CheckTimeLifeCycle
+# CheckTimeLifeCycle Android app
 Tạo ứng dụng CheckLifeTimeCycle
 Start: onCreate, onStart, onResume
 Bấm nút Home: onPause, onStop
